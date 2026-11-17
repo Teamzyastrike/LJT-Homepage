@@ -9,7 +9,7 @@ baseurl: /LJT-Homepage
 repository: "Teamzyastrike/LJT-Homepage"
 
 author:
-  avatar: "profile.png"
+  avatar:
   name: "Junteng Liu"
   pronouns:
   bio: "First-year PhD candidate at HKUST NLP Group researching natural language processing and machine learning."
