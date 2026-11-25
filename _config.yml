@@ -1,5 +1,6 @@
 # Basic site settings
 locale                   : "en-US"
+site_theme               : "default"
 title                    : "Junteng Liu"
 name                     : "Junteng Liu"
 description              : "Junteng Liu's academic homepage"
@@ -20,6 +21,8 @@ author:
 
 # Publication category headings
 publication_category:
+  preprints:
+    title: 'Preprints'
   manuscripts:
     title: 'Journal Articles'
   conferences:
